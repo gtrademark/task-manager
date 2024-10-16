@@ -7,6 +7,9 @@ Além disso, o backend deverá se conectar a um banco de dados relacional (MySQL
 
 ## Requisitos:
 
+### Stack:
+Javascript / NodeJS
+
 ### Backend:
 **1 - API RESTful:**
 - Criar endpoints para:
